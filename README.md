@@ -1,1 +1,1 @@
-# ExerciseDay6
+# Tugas Day 6 (Function)
